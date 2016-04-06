@@ -1,4 +1,4 @@
-/* 给定区间[-231, 231]内的3个整数A、B和C，请判断A+B是否大于C */
+/* 缁欏畾鍖洪棿[-231, 231]鍐呯殑3涓暣鏁癆銆丅鍜孋锛岃鍒ゆ柇A+B鏄惁澶т簬C */
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
