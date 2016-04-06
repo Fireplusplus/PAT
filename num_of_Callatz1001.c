@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*¶Ô¸ø¶¨µÄÈÎÒ»²»³¬¹ý1000µÄÕýÕûÊýn£¬¼òµ¥µØÊýÒ»ÏÂ£¬ÐèÒª¶àÉÙ²½£¨¿³¼¸ÏÂ£©²ÅÄÜµÃµ½n=1£¿*/
+/*å¯¹ç»™å®šçš„ä»»ä¸€ä¸è¶…è¿‡1000çš„æ­£æ•´æ•°nï¼Œç®€å•åœ°æ•°ä¸€ä¸‹ï¼Œéœ€è¦å¤šå°‘æ­¥ï¼ˆç å‡ ä¸‹ï¼‰æ‰èƒ½å¾—åˆ°n=1ï¼Ÿ*/
 
 int main(void)
 {
